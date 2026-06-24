@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# Dataset
+Dataset/
+Clean_HR_Data/
+WorldStrat/
+
+
+# Cache
+_analysis/
+.agents/
+.gradio/
+archive/
+
+# Node
+node_modules/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
