@@ -36,7 +36,7 @@ Do kích thước lớn, dataset và model checkpoint được lưu trên Google
 
 - Dataset WorldStrat: https://drive.google.com/drive/folders/1rj0XjjtRpZDzb8QDArGZf814oVsfnDnB?usp=sharing
 - Clean_HR_Data (có thể chạy code để tạo): https://drive.google.com/drive/folders/13i9W2jDcPFtRURc0Hfb80Iuz9-yAkO6c?usp=drive_link
-- Model Checkpoints: https://drive.google.com/drive/folders/1O_1P4aExB8dHwx_Q7kuS0ZzLUNhsv5b4?usp=sharing
+- Các Model đã lưu lại: https://drive.google.com/drive/folders/1O_1P4aExB8dHwx_Q7kuS0ZzLUNhsv5b4?usp=sharing
 
 Sau khi tải về, đặt các thư mục theo đúng cấu trúc:
 
