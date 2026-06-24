@@ -20,6 +20,9 @@ archive/
 # Node
 node_modules/
 
+Saved_Models/
+*.pth
+
 # Jupyter
 .ipynb_checkpoints/
 
